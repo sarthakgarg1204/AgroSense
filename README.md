@@ -10,6 +10,13 @@ Built with **Streamlit**, this application provides a user-friendly interface an
 
 ---
 
+## 🚀 Live Demo
+
+You can access the live deployed version of AgroSense here:
+🔗 [https://agrosense-pro.streamlit.app](https://agrosense-pro.streamlit.app)
+
+---
+
 ## 🚀 Features
 
 - 🌱 **Crop Recommendation** using a trained Decision Tree model
