@@ -29,6 +29,7 @@ Built with **Streamlit**, this application provides a user-friendly interface an
 
 ## 📁 Folder Structure
 
+```
 AgroSense/
 ├── app.py # Streamlit application
 ├── crop_model.pkl # Trained ML model
@@ -36,11 +37,7 @@ AgroSense/
 ├── Fertilizer Prediction.csv # Dataset for fertilizer lookup
 ├── requirements.txt # Python dependencies
 └── README.md # Project documentation
-
-yaml
-Always show details
-
-Copy
+```
 
 ---
 
