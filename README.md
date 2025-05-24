@@ -48,59 +48,60 @@ AgroSense/
 ```bash
 git clone https://github.com/your-username/AgroSense.git
 cd AgroSense
-🐍 Step 2: Create Virtual Environment (optional but recommended)
-bash
+```
+
+### 🐍 Step 2: Create Virtual Environment (optional but recommended)
+```bash
 Always show details
 
 Copy
 python -m venv venv
 source venv/bin/activate    # On macOS/Linux
 venv\\Scripts\\activate       # On Windows
-📦 Step 3: Install Dependencies
-bash
+```
+
+### 📦 Step 3: Install Dependencies
+```bash
 Always show details
 
 Copy
 pip install -r requirements.txt
-▶️ Step 4: Launch the App
-bash
+```
+
+### ▶️ Step 4: Launch the App
+```bash
 Always show details
 
 Copy
 streamlit run app.py
 The app will open in your browser at:
 http://localhost:8501
+```
 
-🌐 How to Deploy
+### 🌐 How to Deploy
 Push the folder to a GitHub repository.
 
 Go to Streamlit Cloud and connect your GitHub repo.
 
 Select app.py as the entry point and deploy 🚀
 
-📊 Datasets Used
+ ### 📊 Datasets Used
 Crop Dataset: Crop_recommendation.csv
 
 Fertilizer Dataset: Fertilizer Prediction.csv
 
-👥 Team
+### 👥 Team
 AgroSense is developed by:
 
 Sarthak Garg
 
 Team AgroSense — B.Tech Computer Science (2025)
 
-📌 License
+### 📌 License
 This project is licensed under the MIT License. Feel free to use, modify, and contribute!
 
-📬 Contact
+### 📬 Contact
 Got feedback or want to collaborate?
 Email: sarthakgarg1204@gmail.com
 GitHub: github.com/sarthakgarg1204
 """
-
-readme_path = "/mnt/data/README.md"
-with open(readme_path, "w") as f:
-f.write(readme_content)
-
-readme_path
