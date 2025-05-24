@@ -9,7 +9,6 @@ st.title("🌾 AgroSense: AI-Powered Crop & Fertilizer Recommender")
 
 # 📌 Sidebar with logo and information
 with st.sidebar:
-    st.image("https://i.imgur.com/G3Y3a3P.png", width=120)  # Replace with your logo
     st.markdown("## 🌾 AgroSense")
     st.markdown("**An ML-powered assistant for smart farming.**")
     st.markdown("---")
@@ -91,4 +90,4 @@ with tab2:
 
 # 📌 Footer
 st.markdown("---")
-st.markdown("🔗 [GitHub Repo](https://github.com/sarthakgarg1204/AgroSense) | 🌿 Made with ❤️ by Team AgroSense")
+st.markdown("🌿 Made with ❤️ by Team AgroSense")
