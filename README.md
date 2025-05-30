@@ -12,7 +12,7 @@ Built with **Streamlit**, this application provides a user-friendly interface an
 
 ## 🚀 Live Demo
 
-You can access the live deployed version of AgroSense here:
+You can access the live deployed version of CropGenie here:
 🔗 [https://kropgenie.streamlit.app](https://kropgenie.streamlit.app)
 
 ---
@@ -38,7 +38,7 @@ You can access the live deployed version of AgroSense here:
 ## 📁 Folder Structure
 
 ```
-AgroSense/
+CropGenie/
 ├── app.py                       # Streamlit application
 ├── crop_model.pkl               # Trained ML model
 ├── crop_scaler.sav              # Feature scaler (StandardScaler)
@@ -54,8 +54,8 @@ AgroSense/
 ### 🔧 Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/AgroSense.git
-cd AgroSense
+git clone https://github.com/your-username/CropGenie.git
+cd CropGenie
 ```
 
 ### 🐍 Step 2: Create a Virtual Environment (Optional but Recommended)
@@ -103,7 +103,7 @@ The app will open in your browser at:
 
 **CropGenie** is developed by:
 - **Sarthak Garg**
-- **Team AgroSense** — B.Tech Computer Science (2026)
+- **Team CropGenie** — B.Tech Computer Science (2026)
 
 ---
 

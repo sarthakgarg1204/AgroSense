@@ -4,12 +4,12 @@ import pandas as pd
 import pickle
 
 # 🌿 Page configuration
-st.set_page_config(page_title="AgroSense", layout="wide")
-st.title("🌾 AgroSense: AI-Powered Crop & Fertilizer Recommender")
+st.set_page_config(page_title="CropGenie", layout="wide")
+st.title("🌾 CropGenie: AI-Powered Crop & Fertilizer Recommender")
 
 # 📌 Sidebar with logo and information
 with st.sidebar:
-    st.markdown("## 🌾 AgroSense")
+    st.markdown("## 🌾 CropGenie")
     st.markdown("**An ML-powered assistant for smart farming.**")
     st.markdown("---")
     st.markdown("### 🔍 Features")
@@ -17,7 +17,7 @@ with st.sidebar:
     st.markdown("### 📘 How to Use")
     st.markdown("1. Select a tab\n2. Fill in the inputs\n3. Get instant suggestions")
     st.markdown("---")
-    st.markdown("🛠 Developed by: **Team AgroSense**")
+    st.markdown("🛠 Developed by: **Team CropGenie**")
     st.markdown("📌 Version: `1.0.0`")
 
 # 🌾 Label-to-crop mapping
@@ -90,4 +90,4 @@ with tab2:
 
 # 📌 Footer
 st.markdown("---")
-st.markdown("🌿 Made with ❤️ by Team AgroSense")
+st.markdown("🌿 Made with ❤️ by Team CropGenie")
