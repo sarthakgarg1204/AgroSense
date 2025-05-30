@@ -1,7 +1,7 @@
 
-# 🌾 AgroSense: AI-Powered Crop & Fertilizer Recommendation System
+# 🌾 CropGenie: AI-Powered Crop & Fertilizer Recommendation System
 
-AgroSense is an intelligent, ML-powered assistant that helps farmers and agricultural advisors make **data-driven decisions** on:
+CropGenie is an intelligent, ML-powered assistant that helps farmers and agricultural advisors make **data-driven decisions** on:
 
 - ✅ The most suitable **crop** for a specific plot of land
 - ✅ The best **fertilizer** based on crop and soil type
@@ -101,7 +101,7 @@ The app will open in your browser at:
 
 ## 👥 Team
 
-**AgroSense** is developed by:
+**CropGenie** is developed by:
 - **Sarthak Garg**
 - **Team AgroSense** — B.Tech Computer Science (2026)
 
